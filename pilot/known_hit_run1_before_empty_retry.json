@@ -1,0 +1,825 @@
+{
+ "reps": 50,
+ "seed": 20261006,
+ "separators": {
+  "OR": {
+   "found": 23,
+   "reps": 50,
+   "rate": 0.46,
+   "errors": {},
+   "mean_latency_s": 0.5666731452941894,
+   "trials": [
+    {
+     "known": "UkWr-wxckng",
+     "sent_as": "UkWr-WxcknG",
+     "position": 15,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "5Wdl-hYTfRQ",
+     "sent_as": "5WDL-hytFrQ",
+     "position": 29,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "24eN-uQGMZQ",
+     "sent_as": "24eN-UQgmzq",
+     "position": 2,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "V_2R-dZ1UUs",
+     "sent_as": "v_2R-dZ1uuS",
+     "position": 10,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "1pSx-K0k5rg",
+     "sent_as": "1pSX-k0k5RG",
+     "position": 18,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "UPjp-KrYl4E",
+     "sent_as": "UPjP-KRYL4e",
+     "position": 19,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "6f2y-ZA8l4k",
+     "sent_as": "6F2Y-zA8l4K",
+     "position": 11,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "qMQ3-BwbhdY",
+     "sent_as": "qmQ3-BWbHDy",
+     "position": 23,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "5Wdl-PoayMM",
+     "sent_as": "5WdL-pOaYmM",
+     "position": 29,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "c5FM-wNTpN8",
+     "sent_as": "C5FM-WnTpN8",
+     "position": 25,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "pcwi-ES0lNc",
+     "sent_as": "pCWi-eS0LnC",
+     "position": 22,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "joBT-h5jXDc",
+     "sent_as": "jObT-h5JxDC",
+     "position": 15,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "cDYU-pvcgGQ",
+     "sent_as": "cdYU-pVcGgq",
+     "position": 13,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "R3L1-13XFBs",
+     "sent_as": "R3L1-13xFBS",
+     "position": 30,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "zPjW-EGJHdI",
+     "sent_as": "ZpJW-EgjhDI",
+     "position": 10,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "DQNR-JzYzcg",
+     "sent_as": "DqnR-jZYZcg",
+     "position": 27,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "N9Ho-57tDys",
+     "sent_as": "n9hO-57TDYs",
+     "position": 25,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "VzXq-pXvH_U",
+     "sent_as": "vzXQ-Pxvh_u",
+     "position": 0,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "Xye5-5_BSlw",
+     "sent_as": "xYE5-5_Bslw",
+     "position": 8,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "H9As-NXQbo4",
+     "sent_as": "h9AS-NxqbO4",
+     "position": 21,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "RUJ4-mg_sRs",
+     "sent_as": "Ruj4-Mg_sRS",
+     "position": 26,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "lZNL-kn3Av4",
+     "sent_as": "LZnL-kN3aV4",
+     "position": 24,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "q4Jm-hOdepA",
+     "sent_as": "Q4Jm-hOdepA",
+     "position": 7,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "oYlg-nd2H0M",
+     "sent_as": "oyLG-ND2H0m",
+     "position": 9,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "V_2R--UmCxA",
+     "sent_as": "v_2R--Umcxa",
+     "position": 4,
+     "found": false,
+     "n_results": 20,
+     "other_hits": []
+    },
+    {
+     "known": "JvwQ-c-hiIY",
+     "sent_as": "jVwq-c-HIIY",
+     "position": 20,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "ypi3-kDHdA4",
+     "sent_as": "YpI3-Kdhda4",
+     "position": 27,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "Jjky-5ElZ88",
+     "sent_as": "JjKY-5Elz88",
+     "position": 0,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "WUEf-Y5GX88",
+     "sent_as": "WUef-y5Gx88",
+     "position": 28,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "7Grh-KbrJfU",
+     "sent_as": "7GRH-KBrJFu",
+     "position": 12,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "DQNR-54WE0w",
+     "sent_as": "dqnr-54We0w",
+     "position": 0,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "c5FM-Uw1Xv4",
+     "sent_as": "C5FM-uW1xV4",
+     "position": 8,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "7Grh-D9lqeE",
+     "sent_as": "7GRH-D9LQeE",
+     "position": 12,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "1xlh-Ssn_lE",
+     "sent_as": "1XLh-SsN_Le",
+     "position": 23,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "He7K-EJKW40",
+     "sent_as": "hE7k-ejkw40",
+     "position": 25,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "qR3l-_NAsis",
+     "sent_as": "qr3L-_nASiS",
+     "position": 16,
+     "found": false,
+     "n_results": 11,
+     "other_hits": []
+    },
+    {
+     "known": "2FLK-J0fESQ",
+     "sent_as": "2flk-j0FESQ",
+     "position": 1,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "SZg2--EbFiU",
+     "sent_as": "sZG2--eBfiu",
+     "position": 20,
+     "found": false,
+     "n_results": 20,
+     "other_hits": []
+    },
+    {
+     "known": "Ru1g-6IwBEk",
+     "sent_as": "ru1g-6Iwbek",
+     "position": 10,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "R30f-9nx-rY",
+     "sent_as": "R30F-9Nx-Ry",
+     "position": 8,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "qru0-t4uKSc",
+     "sent_as": "QrU0-T4UKSC",
+     "position": 6,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "QxrO-r5UCbo",
+     "sent_as": "qXrO-r5UcbO",
+     "position": 19,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "q4Jm-hOdepA",
+     "sent_as": "q4Jm-hOdePa",
+     "position": 31,
+     "found": false,
+     "n_results": 0,
+     "other_hits": []
+    },
+    {
+     "known": "Vpf_-iF7zys",
+     "sent_as": "VPf_-if7ZYS",
+     "position": 29,
+     "found": false,
+     "n_results": 14,
+     "other_hits": []
+    },
+    {
+     "known": "1eTT-wluyzA",
+     "sent_as": "1Ett-wlUyzA",
+     "position": 5,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "YhQv--fx8g4",
+     "sent_as": "yhQV--fX8g4",
+     "position": 6,
+     "found": true,
+     "n_results": 20,
+     "other_hits": []
+    },
+    {
+     "known": "n1lP-ToXq0s",
+     "sent_as": "n1LP-tOXq0S",
+     "position": 1,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "j84A-vtbSB8",
+     "sent_as": "J84A-vTBSb8",
+     "position": 7,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "vBfO-dz-X2g",
+     "sent_as": "VBfO-dz-x2G",
+     "position": 3,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "45YX-CfOLhU",
+     "sent_as": "45yX-CfOLhu",
+     "position": 23,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    }
+   ]
+  },
+  "|": {
+   "found": 26,
+   "reps": 50,
+   "rate": 0.52,
+   "errors": {},
+   "mean_latency_s": 0.5636927652359008,
+   "trials": [
+    {
+     "known": "ym16-_fJjCg",
+     "sent_as": "ym16-_FJjcg",
+     "position": 31,
+     "found": false,
+     "n_results": 14,
+     "other_hits": []
+    },
+    {
+     "known": "Val7-jexkzo",
+     "sent_as": "val7-JexkZO",
+     "position": 14,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "89w5-a_1ziM",
+     "sent_as": "89w5-a_1ziM",
+     "position": 9,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "N6W4-X09wVE",
+     "sent_as": "n6W4-X09WVe",
+     "position": 21,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "ylI8-ioPFek",
+     "sent_as": "yLI8-ioPFeK",
+     "position": 3,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "V_2R-jLN7Jk",
+     "sent_as": "v_2R-jLN7Jk",
+     "position": 23,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "XHYb-iykn1Q",
+     "sent_as": "XhyB-iykn1q",
+     "position": 26,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "YQ4a-sOdoTc",
+     "sent_as": "yq4A-soDotc",
+     "position": 23,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "ssgO-79td8I",
+     "sent_as": "SSGo-79TD8i",
+     "position": 12,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "1xlh-pzecW4",
+     "sent_as": "1XlH-PzECw4",
+     "position": 10,
+     "found": true,
+     "n_results": 2,
+     "other_hits": []
+    },
+    {
+     "known": "RT8G-v4p_VA",
+     "sent_as": "rt8G-V4P_Va",
+     "position": 19,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "wrZh-tjhWSY",
+     "sent_as": "wrzh-tjhWsY",
+     "position": 22,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "zFHC-2DilGU",
+     "sent_as": "zfHC-2DILGU",
+     "position": 6,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "U8kN-j6jXt8",
+     "sent_as": "U8kN-J6JXt8",
+     "position": 21,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "1eTT-OuudMo",
+     "sent_as": "1Ett-ouUdMo",
+     "position": 0,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "kF7j-F-4w8c",
+     "sent_as": "kf7J-F-4W8c",
+     "position": 6,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "Vm5u-4wUb-k",
+     "sent_as": "vM5u-4Wub-k",
+     "position": 7,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "bmy2-YdBCa4",
+     "sent_as": "bmy2-yDbca4",
+     "position": 2,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "2HRV--ev3n8",
+     "sent_as": "2hRv--Ev3N8",
+     "position": 27,
+     "found": true,
+     "n_results": 20,
+     "other_hits": []
+    },
+    {
+     "known": "K9sx-nJ4OjY",
+     "sent_as": "k9Sx-Nj4ojY",
+     "position": 13,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "SZg2-oh7r0g",
+     "sent_as": "szg2-OH7r0g",
+     "position": 8,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "jZpu-HGTm8w",
+     "sent_as": "JzPU-hgtm8w",
+     "position": 28,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "Ito5--OP0X4",
+     "sent_as": "iTO5--oP0x4",
+     "position": 13,
+     "found": true,
+     "n_results": 19,
+     "other_hits": []
+    },
+    {
+     "known": "qMQ3--RJAd8",
+     "sent_as": "qMQ3--rjad8",
+     "position": 8,
+     "found": true,
+     "n_results": 20,
+     "other_hits": []
+    },
+    {
+     "known": "IUab-0MwlrA",
+     "sent_as": "iUAb-0mwLRa",
+     "position": 21,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "VGAH-vYFTGs",
+     "sent_as": "VgAH-VyfTGS",
+     "position": 8,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "s4bZ-YOTPNk",
+     "sent_as": "S4BZ-yotpnK",
+     "position": 28,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "JCHz-Vj_j2o",
+     "sent_as": "jchZ-Vj_J2O",
+     "position": 29,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "c5FM-Vdu7HM",
+     "sent_as": "C5fm-vDu7hm",
+     "position": 4,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "02jK-ZlU2nY",
+     "sent_as": "02JK-ZLU2Ny",
+     "position": 16,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "6hHv-buKtD4",
+     "sent_as": "6hHv-BukTd4",
+     "position": 16,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "lc3T-i8ReFk",
+     "sent_as": "lc3t-i8rEfK",
+     "position": 0,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "8mTt-Jwu-Yw",
+     "sent_as": "8mtt-jwU-Yw",
+     "position": 0,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "g1Yn-rYApbs",
+     "sent_as": "g1Yn-ryAPbS",
+     "position": 26,
+     "found": false,
+     "n_results": 0,
+     "other_hits": []
+    },
+    {
+     "known": "UPjp-oHzq60",
+     "sent_as": "uPJP-OhzQ60",
+     "position": 23,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "W0OI-KRXWUQ",
+     "sent_as": "w0oi-kRXwuq",
+     "position": 25,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "RrH5-LizQaU",
+     "sent_as": "RRh5-lIZQAU",
+     "position": 10,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "Ksdr-6w3GZU",
+     "sent_as": "KsdR-6w3GZU",
+     "position": 29,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "5xXe-DaNFak",
+     "sent_as": "5XXE-DanFAK",
+     "position": 4,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "wC_K-lqMo50",
+     "sent_as": "Wc_K-lQMO50",
+     "position": 3,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "F3sI-BiMIXw",
+     "sent_as": "F3SI-bimIxw",
+     "position": 4,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "D2bI-R3Osws",
+     "sent_as": "d2bI-R3oSWs",
+     "position": 31,
+     "found": false,
+     "n_results": 7,
+     "other_hits": []
+    },
+    {
+     "known": "dxaG-VExhdA",
+     "sent_as": "DXAG-vEXhDa",
+     "position": 11,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "c_RC-BxPFSA",
+     "sent_as": "C_rc-bxPfSa",
+     "position": 20,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "vBfO-dz-X2g",
+     "sent_as": "vBfo-dZ-x2g",
+     "position": 5,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "2hiB-8jg4bc",
+     "sent_as": "2hIb-8JG4BC",
+     "position": 18,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "1fzO-ImnwaE",
+     "sent_as": "1FzO-IMNWAe",
+     "position": 15,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "RT8G-mfrupk",
+     "sent_as": "RT8G-mFrUPK",
+     "position": 8,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "24eN-Tg4kdI",
+     "sent_as": "24eN-Tg4kdI",
+     "position": 16,
+     "found": true,
+     "n_results": 1,
+     "other_hits": []
+    },
+    {
+     "known": "uZbS-befh-Q",
+     "sent_as": "uZbS-BEfH-q",
+     "position": 24,
+     "found": false,
+     "n_results": 1,
+     "other_hits": []
+    }
+   ]
+  }
+ },
+ "chosen_separator": "|"
+}

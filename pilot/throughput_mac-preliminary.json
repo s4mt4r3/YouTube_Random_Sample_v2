@@ -1,0 +1,20 @@
+{
+ "label": "mac-preliminary",
+ "host": "Samiks-MacBook-Air.local",
+ "platform": "macOS-26.5.2-arm64-arm-64bit",
+ "minutes": 5.0,
+ "threads": 8,
+ "elapsed_s": 304.8450951576233,
+ "separator": "OR",
+ "queries_done": 2144,
+ "hits": 0,
+ "hit_ids": [],
+ "qps": 7.033080190748756,
+ "qps_per_thread": 0.8791350238435945,
+ "errors": {
+  "empty_response": 718,
+  "http_403": 25
+ },
+ "abandoned": 0,
+ "campaign_dir": "pilot/throughput_campaign/mac-preliminary_1791266793"
+}

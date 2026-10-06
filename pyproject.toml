@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dialing-for-videos"
+version = "0.1.0"
+description = "Dialing for Videos (McGrady et al. 2023) random YouTube sampler for Slurm clusters"
+requires-python = ">=3.11"
+dependencies = [
+    "innertube>=2.1.19",
+    "httpx>=0.24",
+    "yt-dlp>=2025.1.0",
+    "requests>=2.31",
+    "numpy>=1.24",
+    "pandas>=2.0",
+    "pyarrow>=14",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4"]
+
+[tool.setuptools.packages.find]
+include = ["sampler*", "enrich*", "tools*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

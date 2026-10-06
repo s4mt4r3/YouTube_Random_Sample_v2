@@ -1,0 +1,18 @@
+# Environments and build artifacts
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.DS_Store
+skills.md
+CLAUDE.md
+
+# Campaign outputs (large; live on Amarel scratch)
+campaigns/
+pilot/throughput_campaign/
+*.parquet
+*.jsonl.gz
+*.tsv.gz

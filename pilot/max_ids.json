@@ -1,0 +1,348 @@
+{
+ "separator": "OR",
+ "trials_per_size": 8,
+ "position": "last",
+ "rows": [
+  {
+   "ids": 16,
+   "found": 8,
+   "trials": 8,
+   "query_chars": 236,
+   "details": [
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 6
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 5
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 6
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 2
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 1
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 7
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 2
+    },
+    {
+     "position": 15,
+     "found": true,
+     "query_chars": 236,
+     "n_results": 2
+    }
+   ]
+  },
+  {
+   "ids": 24,
+   "found": 8,
+   "trials": 8,
+   "query_chars": 356,
+   "details": [
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 3
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 1
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 7
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 2
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 5
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 2
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 9
+    },
+    {
+     "position": 23,
+     "found": true,
+     "query_chars": 356,
+     "n_results": 7
+    }
+   ]
+  },
+  {
+   "ids": 30,
+   "found": 7,
+   "trials": 8,
+   "query_chars": 446,
+   "details": [
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 7
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 4
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 1
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 5
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 4
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 6
+    },
+    {
+     "position": 29,
+     "found": false,
+     "query_chars": 446,
+     "n_results": 1
+    },
+    {
+     "position": 29,
+     "found": true,
+     "query_chars": 446,
+     "n_results": 5
+    }
+   ]
+  },
+  {
+   "ids": 31,
+   "found": 7,
+   "trials": 8,
+   "query_chars": 461,
+   "details": [
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 5
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 3
+    },
+    {
+     "position": 30,
+     "found": false,
+     "query_chars": 461,
+     "n_results": 12
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 1
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 4
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 3
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 5
+    },
+    {
+     "position": 30,
+     "found": true,
+     "query_chars": 461,
+     "n_results": 2
+    }
+   ]
+  },
+  {
+   "ids": 32,
+   "found": 0,
+   "trials": 8,
+   "query_chars": 476,
+   "details": [
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 0
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 1
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 5
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 0
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 6
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 3
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 0
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 0
+    }
+   ]
+  },
+  {
+   "ids": 33,
+   "found": 0,
+   "trials": 8,
+   "query_chars": 491,
+   "details": [
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 0
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 7
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 1
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 5
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 5
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 3
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 4
+    },
+    {
+     "position": 32,
+     "found": false,
+     "query_chars": 491,
+     "n_results": 2
+    }
+   ]
+  }
+ ],
+ "errors": {
+  "empty_response": 24
+ },
+ "baseline_rate_at_first_size": 1.0,
+ "largest_workable": 31
+}

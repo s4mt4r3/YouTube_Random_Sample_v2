@@ -1,0 +1,87 @@
+{
+ "separator": "OR",
+ "trials_per_size": 5,
+ "rows": [
+  {
+   "ids": 32,
+   "found": 4,
+   "trials": 5,
+   "query_chars": 476,
+   "details": [
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 476,
+     "n_results": 0
+    },
+    {
+     "position": 7,
+     "found": true,
+     "query_chars": 476,
+     "n_results": 4
+    },
+    {
+     "position": 5,
+     "found": true,
+     "query_chars": 476,
+     "n_results": 7
+    },
+    {
+     "position": 3,
+     "found": true,
+     "query_chars": 476,
+     "n_results": 6
+    },
+    {
+     "position": 8,
+     "found": true,
+     "query_chars": 476,
+     "n_results": 5
+    }
+   ]
+  },
+  {
+   "ids": 40,
+   "found": 2,
+   "trials": 5,
+   "query_chars": 596,
+   "details": [
+    {
+     "position": 39,
+     "found": false,
+     "query_chars": 596,
+     "n_results": 6
+    },
+    {
+     "position": 31,
+     "found": false,
+     "query_chars": 596,
+     "n_results": 1
+    },
+    {
+     "position": 9,
+     "found": true,
+     "query_chars": 596,
+     "n_results": 2
+    },
+    {
+     "position": 26,
+     "found": true,
+     "query_chars": 596,
+     "n_results": 6
+    },
+    {
+     "position": 10,
+     "found": false,
+     "query_chars": 596,
+     "n_results": 9
+    }
+   ]
+  }
+ ],
+ "errors": {
+  "empty_response": 4
+ },
+ "largest_fully_workable": null,
+ "first_failing_size": 32
+}
